@@ -5,8 +5,8 @@
 
 💻  Work experience:
 - [CS61](https://cs61.seas.harvard.edu/site/2024) Teaching Fellow @ Harvard (Fall 2024)
-- Software Engineer @ TensorDock (Summer 2024)
-- Security Engineer @ TensorDock (Winter/Spring 2024)
+- Software Engineer Intern @ TensorDock (Summer 2024)
+- Security Engineer Intern @ TensorDock (Winter/Spring 2024)
 
 Currently looking for Summer 2025 internships
 
