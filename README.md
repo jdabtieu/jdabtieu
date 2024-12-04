@@ -9,8 +9,6 @@
 - Software Engineer Intern @ TensorDock (Summer 2024)
 - Security Engineer Intern @ TensorDock (Winter/Spring 2024)
 
-Currently looking for Summer 2025 internships
-
 Connect with me: [LinkedIn](https://www.linkedin.com/in/jonathanwu3/) | [Email](mailto:me@jonathanw.dev) | [Website](https://jonathanw.dev)
 
 ![](https://komarev.com/ghpvc/?username=jdabtieu&color=brightgreen)
